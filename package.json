@@ -1,0 +1,25 @@
+{
+  "name": "@jeremyx9/hastebin",
+  "version": "0.0.1",
+  "description": "A Node.JS API for Hastebin.",
+  "main": "hastebin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hastebin",
+    "npm",
+    "paste",
+    "jeremyx9",
+    "getPaste",
+    "createPaste",
+    "simple",
+    "API"
+  ],
+  "author": "JeremyX9",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "qs": "^6.10.3"
+  }
+}
