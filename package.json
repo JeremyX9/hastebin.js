@@ -21,5 +21,9 @@
   "dependencies": {
     "axios": "^0.25.0",
     "qs": "^6.10.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JeremyX9/hastebin.js"
+  },
 }
